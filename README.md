@@ -1,7 +1,7 @@
 ## Projet-GA22GP5
 # Présentation du projet de fin d’études de Master en Data orientation Intelligence Artificielle - ISM Paris
 
-1. Choix du sujet et de l’institution cible
+# 1. Choix du sujet et de l’institution cible
 Le sujet choisi s'inscrit dans le cadre de l'analyse des conditions de vie des
 ménages, un enjeu majeur pour comprendre et lutter contre la pauvreté dans les
 pays en voie de développement.
@@ -18,13 +18,13 @@ facteurs influençant la pauvreté.
 ● Proposer des recommandations basées sur les résultats du modèle, afin
 d’aider à la formulation de politiques publiques ciblées et efficaces.
 
-2. Obtention des Autorisations
+# 2. Obtention des Autorisations
 Démarche : Demande adressée à l’Agence nationale de la statistique (ANStat) de
 Côte d’Ivoire pour garantir l'accès aux données nécessaires.
 Actions : Obtenir les autorisations requises pour accéder et utiliser les données de
 l’enquête tout en respectant les réglementations en vigueur sur la protection des
 données personnelles.
-3. Informations et Données, Outils
+# 3. Informations et Données, Outils
 Jeux de données : Bases de données de l’Enquête sur le Niveau de Vie des
 ménages (ENV) 2015 de la Côte d’Ivoire.
 
@@ -37,7 +37,7 @@ développement de l’application mobile
 Outils :
 - Postman pour tester l’API
 - Bibliothèques : Tensor Flow, Scikit-learn, NumPy, pandas, ...
-4. Analyse contextuelle
+# 4. Analyse contextuelle
 La pauvreté des ménages demeure un enjeu majeur dans de nombreux pays en voie
 de développement, freinant ainsi le développement économique et social. En 2015,
 une enquête nationale a permis de collecter des données détaillées sur les
@@ -51,7 +51,7 @@ basant sur des données multi-dimensionnelles.
 Notre projet s’inscrit dans une démarche académique, avec pour ambition de
 contribuer à l’analyse des conditions de vie des ménages en exploitant les nouvelles
 technologies au service des sciences sociales.
-5. Recueil des Données
+# 5. Recueil des Données
 Les données utilisées dans notre projet proviennent de l'enquête nationale ENV
 2015, elle fournit une base riche pour analyser les conditions de vie des ménages.
 Cette enquête porte sur un échantillon représentatif de la population ivoirienne, inclut
@@ -60,7 +60,7 @@ robuste.
 Les informations collectées incluent des indicateurs tels que les revenus, l'emploi, les
 actifs, et les dépenses, ainsi que d'autres données socio-économiques pertinentes
 pour prédire le niveau de vie.
-6. Choix des Outils et Méthodes
+# 6. Choix des Outils et Méthodes
 Outils de Développement
 - Jupyter Notebook pour l'exploration des données, la visualisation, et le
 développement du modèle d'intelligence artificielle.
