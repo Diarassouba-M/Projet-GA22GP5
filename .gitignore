@@ -163,6 +163,7 @@ models/*.joblib
 models/*.pkl
 ml_model/*.joblib
 ml_model/*.pkl
+household_dashboard/ml_model/trained_model/*
 
 # Données brutes ou intermédiaires
 data/raw/
